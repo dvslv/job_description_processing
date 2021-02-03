@@ -3,7 +3,7 @@ ner+classif
 
 use docker: https://hub.docker.com/u/mvideodataoffice
 
-### Распознование профессии
+### Распознавание профессии
 Два варианта реализации:
 1. нечеткий поиск
 2. embs(fasttext) + cosine_sim 
